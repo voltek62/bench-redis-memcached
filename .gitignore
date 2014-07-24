@@ -1,0 +1,8 @@
+nodejs/node_modules/
+C/c-memcached-get
+C/c-memcached-set
+C/c-memcached-set-get
+C/c-redis-get
+C/c-redis-set
+C/c-redis-set-get
+*.csv
